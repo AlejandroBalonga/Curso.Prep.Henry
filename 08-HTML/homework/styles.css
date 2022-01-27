@@ -1,0 +1,26 @@
+h1 {
+  color: cornflowerblue;
+}
+img {
+  width: 400;
+}
+#thirdDiv {
+  height: 700;
+  width: 500;
+  background-color: darkolivegreen;
+  padding: 50px;
+  border: 10px solid mediumspringgreen;
+}
+#spanId {
+  font-size: 18px;
+  max-width: 50px;
+}
+body {
+  background-image: url(https://www.paulinacocina.net/wp-content/uploads/2017/10/frenchfries.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+div {
+  width: 50%;
+  margin-left: 25%;
+}
